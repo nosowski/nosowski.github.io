@@ -1,0 +1,4 @@
+baseURL = "https://nosowski.dev/"
+languageCode = "en-us"
+title = "nosowski.dev"
+theme = "binario"
