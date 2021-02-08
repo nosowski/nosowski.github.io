@@ -4,22 +4,14 @@
 
 ![yay](https://media1.tenor.com/images/c7e549786b748474c08a5ab64f90ea08/tenor.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sample code snippet:
 
 ```markdown
-Syntax highlighted code block
+package main
 
-# Header 1
-## Header 2
-### Header 3
+import "fmt"
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+func main(){
+  fmt.Println("Hello, world!")
+}
 ```
