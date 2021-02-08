@@ -1,6 +1,8 @@
 ## I add more later, I promise.
 
-### Markdown
+### Cat
+
+![yay](https://media1.tenor.com/images/c7e549786b748474c08a5ab64f90ea08/tenor.gif)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
